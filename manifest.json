@@ -1,0 +1,23 @@
+// manifest.json
+{
+  "name": "The efficient extension",
+  "version": "1.0",
+  "description": "Be a little bit more efficient with this app. (That work for me and my friends)",
+  "manifest_version": 2,
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "permissions": [
+    "activeTab"
+  ],
+  "browser_action": {
+    "default_popup": "popup.html",
+    "default_icon": "images/efficient.png"
+   },
+    "icons": {
+    "16": "images/efficient.png",
+    "32": "images/efficient.png",
+    "48": "images/efficient.png",
+    "128": "images/efficient.png"
+  }
+}
