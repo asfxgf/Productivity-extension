@@ -8,4 +8,15 @@ function listenClick() {
   })
 }
 
+function listenClickOnChangeBackground() {
+  const button = document.getElementById('change-background-color');
+  button.addEventListener('click', () => {
+    chrome.tabs.executeScript({
+      file: 'scripts/change-background-color.js'
+    });
+  })
+}
+
+
 listenClick();
+listenClickOnChangeBackground();

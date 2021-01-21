@@ -1,4 +1,5 @@
 // scripts/send-data.js
+
 function fetchData() {
   const title = document.querySelector('title').innertext;
   const url = window.location.href;
