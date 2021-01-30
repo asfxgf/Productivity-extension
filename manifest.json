@@ -2,26 +2,22 @@
 {
   "name": "The efficient extension",
   "version": "1.0",
-  "description": "Be a little bit more efficient with this app. (That work for me and my friends)",
+  "description": "Afficher son age actuel sur google.com",
   "manifest_version": 2,
   "background": {
-    "scripts": ["background.js"]
+    "scripts": ["background.js", "script.js"]
   },
+
+ "content_scripts": [{
+    "css": ["styles.css"],
+    "js": ["content.js"],
+    "matches": ["https://www.google.fr/"]
+  }]
+,
 
   "permissions": [
     "activeTab"
   ],
-
-  "content_scripts" : [
-    {
-      "js": ["content.js"],
-      "run_at": "document_end",    // Pay attention to this line
-      "css": ["content.css"],
-      "matches": ["*://www.google.com/*", "*://*/*", ""]
-    }
-  ],
-
-  "web_accessible_resources": ["script.js"],
 
   "browser_action": {
     "default_popup": "popup.html",
