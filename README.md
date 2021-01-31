@@ -1,7 +1,9 @@
 # extension_2
 Une extension qui affiche mon age en "compteur" sur le site https://google.com
 
-Cette extension me permet d'être plus productif dans mon métier de freelance et mes petits projets.
+Cette extension me permet d'être plus productif dans : 
+- Mon métier de freelance.
+- Mes petits projets.
 
 Avoir en rappel constant que le temps passe et ne reculera pas me force à passer à l'action, ne pas remettre les choses au lendemain ... blablabla etc... etc ...
 
