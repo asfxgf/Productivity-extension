@@ -8,7 +8,7 @@ document.body.onload = function CreateH1() {
   var referenceNode = document.querySelector('#SIvCob');
   referenceNode.after(newDiv);
   newDiv.appendChild(newH1);
-  setInterval(addQuoteToGoogle, 150);
+  setInterval(addQuoteToGoogle, 80);
 };
 
 

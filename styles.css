@@ -7,6 +7,7 @@ div {
 
 #agediv {
   display: table-cell;
+  text-align: center;
 }
 
 #age {
