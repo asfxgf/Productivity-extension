@@ -1,4 +1,4 @@
-//alert("Hey boy");
+//content.js
 
 document.body.onload = function CreateH1() {
   var newDiv = document.createElement("div");
