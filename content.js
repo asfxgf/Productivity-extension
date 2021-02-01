@@ -11,11 +11,6 @@ document.body.onload = function CreateH1() {
   setInterval(addQuoteToGoogle, 80);
 };
 
-
-
-
-
-
 function computeExactAge() {
 
   const birthday = new Date("December 04 1998");

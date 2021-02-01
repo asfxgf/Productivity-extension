@@ -2,11 +2,8 @@
 {
   "name": "The efficient extension",
   "version": "1.0",
-  "description": "Afficher son age actuel sur google.com",
+  "description": "Affiche un compteur affichant son age actuel sur google.com",
   "manifest_version": 2,
-  "background": {
-    "scripts": ["background.js"]
-  },
 
  "content_scripts": [{
     "css": ["styles.css"],
