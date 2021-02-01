@@ -1,7 +1,11 @@
 # extension_2
 Une extension qui affiche mon age en "compteur" sur le site https://google.com
 
+<<<<<<< HEAD
 Cette extension me permet d'être plus productif dans :
+=======
+Cette extension me permet d'être plus productif dans : 
+>>>>>>> d399bbbedc5ffa7d1209f367aa0316f1c083aad3
 - Mon métier de freelance.
 - Mes petits projets.
 
