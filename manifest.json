@@ -14,17 +14,5 @@
 
   "permissions": [
     "activeTab"
-  ],
-
-  "browser_action": {
-    "default_popup": "popup.html",
-    "default_icon": "images/efficient.png"
-   },
-
-    "icons": {
-    "16": "images/efficient.png",
-    "32": "images/efficient.png",
-    "48": "images/efficient.png",
-    "128": "images/efficient.png"
-  }
+  ]
 }
