@@ -1,14 +1,13 @@
-# extension_2
-Une extension qui affiche mon age en "compteur" sur le site https://google.com
+# Productivity_extension
+Une extension qui affiche mon age en "compteur" sur les pages de recherche https://google.com et https://google.fr
 
-Cette extension me permet d'être plus productif dans :
+Cette extension permet à chaque recherche google de :
+1/ Me motiver grâce à un compteur qui défile mon age.
+2/ Avoir des informations sur le cours du BTC.
+3/ Avoir une idée d'activité à exercer par jour.
 
-- Mon métier de freelance.
-- Mes petits projets.
-
-Avoir en rappel constant que le temps passe et ne reculera pas me force à passer à l'action, ne pas remettre les choses au lendemain ... blablabla etc... etc ...
-
-Pour moi ça marche ! Et vous, vous en pensez quoi ?
-
-deleglise.quentin@hotmail.fr
 https://www.linkedin.com/in/quentin-deleglise-7a4459131/
+deleglise.quentin@hotmail.fr
+07 77 31 76 86
+
+More about me and my projects : https://linktr.ee/quentin_deleglise
