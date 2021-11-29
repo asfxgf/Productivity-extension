@@ -1,11 +1,18 @@
 # Productivity_extension
-Une extension qui affiche mon age en "compteur" sur les pages de recherche https://google.com et https://google.fr
+This project is a google chrome extension.
 
-Cette extension permet à chaque recherche google de :
-1/ Me motiver grâce à un compteur qui défile mon age.
-2/ Avoir des informations sur le cours du BTC.
-3/ Avoir une idée d'activité à exercer par jour.
+It display some information when you are surfing on https://google.com or https://google.fr
 
+It display : 
+1/ The chronometer of my age.
+2/ Live Bitcoin Prices.
+3/ An activity Idea
+
+This chrome extension motivate me to work.
+
+This project is 100% open-source. feel free to download it, upgrade it etc...
+
+**Illustration :**
 ![productivity_app](https://user-images.githubusercontent.com/39190225/143792365-873d2168-8d37-4556-a530-8a5aa4074573.PNG)
 
 More about me and my projects : https://linktr.ee/quentin_deleglise
