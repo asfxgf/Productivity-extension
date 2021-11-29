@@ -11,6 +11,7 @@ It display :
 This chrome extension motivate me to work.
 
 This project is 100% open-source. feel free to download it, upgrade it etc...
+I am actually using some public API. You can find them on this blog article : https://apipheny.io/free-api/#apis-without-key
 
 **Illustration :**
 ![productivity_app](https://user-images.githubusercontent.com/39190225/143792365-873d2168-8d37-4556-a530-8a5aa4074573.PNG)
