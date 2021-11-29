@@ -6,6 +6,8 @@ Cette extension permet à chaque recherche google de :
 2/ Avoir des informations sur le cours du BTC.
 3/ Avoir une idée d'activité à exercer par jour.
 
+![productivity_app](https://user-images.githubusercontent.com/39190225/143792365-873d2168-8d37-4556-a530-8a5aa4074573.PNG)
+
 https://www.linkedin.com/in/quentin-deleglise-7a4459131/
 deleglise.quentin@hotmail.fr
 07 77 31 76 86
