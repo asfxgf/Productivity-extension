@@ -8,8 +8,4 @@ Cette extension permet à chaque recherche google de :
 
 ![productivity_app](https://user-images.githubusercontent.com/39190225/143792365-873d2168-8d37-4556-a530-8a5aa4074573.PNG)
 
-https://www.linkedin.com/in/quentin-deleglise-7a4459131/
-deleglise.quentin@hotmail.ff
-07 77 31 76 86
-
 More about me and my projects : https://linktr.ee/quentin_deleglise
