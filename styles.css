@@ -1,10 +1,27 @@
 #agediv {
-  display: table-cell;
+  display: block;
   text-align: center;
+  width: auto;
+  height: auto;
 }
 
 #age {
   font-size: 42px;
-  color: red;
-  text-align: left;
+  color : #3498DB;
+  font-family: serif;
+  text-align: center;
+}
+
+#activity {
+	font-size: 42px;
+	color: #E74C3C;
+	font-family: serif;
+	text-align: center;
+}
+
+#bitcoin {
+	font-size: 42px;
+	color: #27AE60;
+	font-family: serif;
+	text-align: center;	
 }

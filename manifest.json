@@ -7,9 +7,10 @@
   "content_scripts": [{
     "css": ["styles.css"],
     "js": ["content.js"],
-    "matches": ["https://www.google.fr/"]
+    "matches": ["https://www.google.fr/", "https://www.google.com/"]
   }],
   "permissions": [
-    "activeTab"
+    "activeTab",
+    "https://www.example.com/*"
   ]
 }
