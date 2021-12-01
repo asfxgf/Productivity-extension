@@ -8,20 +8,20 @@
 #age {
   font-size: 42px;
   color : #3498DB;
-  font-family: serif;
+  font-family: Tahoma;
   text-align: center;
 }
 
 #activity {
 	font-size: 42px;
 	color: #E74C3C;
-	font-family: serif;
+	font-family: Tahoma;
 	text-align: center;
 }
 
 #bitcoin {
 	font-size: 42px;
 	color: #27AE60;
-	font-family: serif;
+	font-family: Tahoma;
 	text-align: center;	
 }
