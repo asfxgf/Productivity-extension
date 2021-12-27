@@ -48,7 +48,7 @@ function httpGet(theUrl) {
     response_obj = JSON.parse(response);
     if (theUrl == "https://api.coindesk.com/v1/bpi/currentprice.json") {
       theBitcoin = document.getElementById("bitcoin");
-      theBitcoin.innerHTML = "Prix actuel du BITCOIN : " + response_obj.bpi.EUR.rate + " €";
+      theBitcoin.innerHTML = "Bitcoin stock market price : " + response_obj.bpi.EUR.rate + " €";
       return console.log("Prix actuel du BITCOIN : " + response_obj.bpi.EUR.rate + " €");
     } else if (theUrl == "https://www.boredapi.com/api/activity") {
       //console.log(response_obj["activity"]);
